@@ -1,0 +1,190 @@
+	#####   Intrigue Icon Set 0.6.2 [green] #####
+Thanks to the kde-look user Pquarles, I was able to fixs yet another bug, I hadn't known existed :).
+
+- Fixed Missing 'bookmark tabs as folder' Icon.
+
+	#####   Intrigue Icon Set 0.6.1 [green] #####
+Thanks to the kde-look user Pquarles, I was able to fixs some bugs, I hadn't known existed :).
+
+- Fixed Icon Mismatch in KMail
+- New Kopete Icons
+- New Konversation Icons
+
+	#####   Intrigue Icon Set 0.6 [green]   #####
+
+Sorry for the wait! I was working on other projects -- but I hope all of you enjoy this new release :).
+
+// New Icons
+- Journal Icon
+- Book Icon
+- Printer Icon
+- Print-Preview Icon
+- Click Icon
+- Compiz Fusion Icon
+- Emerald Icon
+- Green Light
+- Red Light
+- Yellow Light
+- Mp3 Player
+- Opera Icon
+- Emotion Icons:
+	- Suprised
+	- Happy
+	- VERY Happy
+	- Sad
+	- Wink
+	- Stick-out Tounge
+
+
+// Improved Icons
+ - Monitor Icon.
+ - Application Config Monitor Icon.
+ - System Monitor Icon.
+ - Mouse Icon
+ - Slideshow Icon
+ - Fullscreen Icon
+ - Ruby Icon
+ - Drawer Icon
+ - Add Icon
+ - Clock/History Icon
+ - 3D Desktop 
+ - Improved Clarity of 48x48 Lightbulb
+ - Improved Clarity of 22x22 Accept Icon
+ - Improved Clarity of 22x22 Play Icon
+ - Improved Clarity of 22x22 Stop Icon
+ - Improved Clarity of 22x22 Remove Icon
+ - Improved Clarity of 22x22 Down Icon
+ - Improved Clarity of 22x22 Up Icon
+ - Improved Clarity of 22x22 Next Icon
+ - Improved Clarity of 22x22 Back Icon
+
+//As always there were alot more changes that I was too lazy to record :o.
+
+
+#####   Intrigue Icon Set 0.5 [click]   #####
+
+Alot of improvements have been made in this release :), 
+
+//New & Redone Icons.
+*new 'coffee' icon.
+*new 'chat' icon.
+*new 'coffee folder' icon.
+*new 'application designer' icon.
+*new 'blender'( the application not the household appliance ;) ) icon.
+*new 'blender folder' icon.
+*new 'stop' icon.
+*new 'qt' icon.
+*new 'qt designer' icon.
+*new 'qt folder' icon.
+*new 'enter' icon.
+*new 'ruby' icon.
+*new 'ruby folder' icon.
+*new 'simple foundation' icon.
+*new 'email' icon.
+*new 'mail' icon.
+*new 'microphone / large krecord' icon.
+*new 'audio record' icon.
+*new 'audio play' icon.
+*new 'audio fast-foward' icon.
+*new 'audio rewind' icon.
+*new 'audio next' icon.
+*new 'audio back' icon.
+*new 'audio stop' icon.
+*new 'audio pause' icon.
+*new 'add/plus' icon.
+*new 'remove/minus' icon.
+*new 'disable' icon.
+*new 'drawer' icon.
+*new 'clock/history' icon.
+*new 'history remove' icon.
+*new 'schedule folder' icon
+*new 'search folder' icon
+*new 'starred folder' icon.
+*new 'kde folder' icon.
+*new 'iso folder' icon.
+*new 'idea folder' icon.
+*new 'multimedia folder' icon.
+*new 'task folder' icon.
+*redone 'multimedia' icon
+*redone 'zip-overlay' icon
+*redone 'incomplete folder' icon.
+
+//Improved icons
+*improved 'photo-folder' icon.
+*improved 'java source' icon.
+*improved 'ruby source' icon.
+*improved 'theme' icon
+*improved 'lock' icon.
+*improved 'hammer' icon -- affects many icons including almost all development icons.
+*improved 'leaf' icon.
+*improved 'bin folder' icon.
+*improved 'trash file' icon.
+*improved 'empty trash' icon.
+
+//Misc
+*'All smaller icons (16x16 - 48x48) are now more distinct and vibrant.
+*'images' icon now used for 'package_graphics' icon.
+*'text' icon now used for 'package_wordproccessing' icon.
+*'hammer' icon now used for 'configue' icon.
+*'play' icon now used for 'enter' icon.
+*'kde' icon is now green by defualt.
+
+#####   Intrigue Icon Set 0.4 [polished]   #####
+
+I decided to keep a record of all the changes I made this time. Chances are I missed 1 or to things, but this should be most of it ;):
+
+//new/redone  icons
+*redone 'KMenu' icon
+*redone 'refresh' button
+*redone 'direction arrow' icons
+*redone 'trashcan empty/full' icons
+*new 'KSystemGuard' icon
+*new 'network drive' icon
+*new 'internet config' icon
+*new 'web publishing' icon
+*new 'paste' icon
+*new 'undo/redo' icons
+*new 'flip' icon
+*new 'rotate' icon
+*new 'view mode' icons(not all are done yet.)
+*new 'bookmark list add' icon
+*new 'development package' icon
+*new 'game package' icon
+*new 'photo folder' icon
+*new 'power' icon
+*new 'run' icon
+
+//improved icons
+*improved 'Star' icon
+*improved 'Accept' icon
+*improved 'Decline' icon
+*improved 'music' icon
+*improved 'cdrom' icon
+*improved 'white paper' icon (effects almost all mimi-type icons)
+*improved 'lined paper' icon
+*improved 'application' icon
+*improved 'crosswalk' icon
+*improved 'base folder' icon (effects almost all folder-type icons)
+*improved 'hard drive' icon
+*improved 'info file' icon
+*improved 'phone' icon
+*improved 'camera' icon
+*improved 'floppy' icon
+*improved 'usb memory stick' icon
+*improved 'purchase order' icon
+*improved 'wordwrap' icon
+*improved 'leaf' icon
+*improved 'monitor' icon
+*improved 'mouse' icon
+*improved 'select' icon
+*improved 'destort' icon
+*improved 'bookmark add' icon
+*improved 'leaf folder' icon
+*improved 'local network' icon
+
+//new icons sizes included
+*original sized icons now included
+*256x256 icons now included
+
+//misc
+*All 16x16 & 22x22 icons now have a distinct outline
